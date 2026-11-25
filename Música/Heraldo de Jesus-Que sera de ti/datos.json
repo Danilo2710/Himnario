@@ -1,0 +1,91 @@
+{
+  "carpeta": "Heraldo de Jesus-Que sera de ti",
+  "grupo": "Heraldo de Jesus",
+  "album": "Que sera de ti",
+  "anio": "2020",
+  "genero": "guitarras",
+  "iglesia": "",
+  "descripcion": "grupo musical",
+  "portada": "portada.png",
+  "fechaActualizacion": "2026-11-25T21:50:07.521Z",
+  "canciones": [
+    {
+      "numero": 1,
+      "titulo": "Alli quiero ir",
+      "archivo": "Alli quiero ir.mp3",
+      "duracion": "03:05"
+    },
+    {
+      "numero": 2,
+      "titulo": "El diablo esta celoso",
+      "archivo": "El diablo esta celoso.mp3",
+      "duracion": "02:18"
+    },
+    {
+      "numero": 3,
+      "titulo": "Hasta entonces",
+      "archivo": "Hasta entonces.mp3",
+      "duracion": "02:20"
+    },
+    {
+      "numero": 4,
+      "titulo": "Himnos en popurri",
+      "archivo": "Himnos en popurri.mp3",
+      "duracion": "03:05"
+    },
+    {
+      "numero": 5,
+      "titulo": "La historia de Jonas",
+      "archivo": "La historia de Jonas.mp3",
+      "duracion": "02:14"
+    },
+    {
+      "numero": 6,
+      "titulo": "Poco tiempó aqui",
+      "archivo": "Poco tiempó aqui.mp3",
+      "duracion": "02:44"
+    },
+    {
+      "numero": 7,
+      "titulo": "Qué será de ti",
+      "archivo": "Qué será de ti.mp3",
+      "duracion": "02:41"
+    },
+    {
+      "numero": 8,
+      "titulo": "Rocio celestial",
+      "archivo": "Rocio celestial.mp3",
+      "duracion": "02:45"
+    },
+    {
+      "numero": 9,
+      "titulo": "Sabias",
+      "archivo": "Sabias.mp3",
+      "duracion": "02:23"
+    },
+    {
+      "numero": 10,
+      "titulo": "Sed sobrios y velad",
+      "archivo": "Sed sobrios y velad.mp3",
+      "duracion": "02:19"
+    },
+    {
+      "numero": 11,
+      "titulo": "Sin mirar hacia atrás",
+      "archivo": "Sin mirar hacia atrás.mp3",
+      "duracion": "03:29"
+    },
+    {
+      "numero": 12,
+      "titulo": "Vil engaño",
+      "archivo": "Vil engaño.mp3",
+      "duracion": "03:04"
+    },
+    {
+      "numero": 13,
+      "titulo": "Vuelve el Señor",
+      "archivo": "Vuelve el Señor.mp3",
+      "duracion": "02:14"
+    }
+  ]
+}
