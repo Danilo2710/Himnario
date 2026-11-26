@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-25T21:51:02.181Z",
+  "actualizado": "2026-11-26T16:36:32.059Z",
   "albumes": [
     {
       "carpeta": "Heraldo de Jesus-Que sera de ti",
@@ -12,6 +12,18 @@
       "portada": "portada.png",
       "cantidadAudios": 13,
       "fechaActualizacion": "2026-11-25T21:50:07.521Z"
+    },
+    {
+      "carpeta": "YADIEL-Volumen 1",
+      "grupo": "YADIEL",
+      "album": "Volumen 1",
+      "anio": "2025",
+      "genero": "Alabanza",
+      "iglesia": "Villa el Salvador",
+      "descripcion": "",
+      "portada": "portada.png",
+      "cantidadAudios": 31,
+      "fechaActualizacion": "2026-11-26T16:33:39.408Z"
     }
   ]
 }
