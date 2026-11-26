@@ -1,0 +1,25 @@
+{
+  "carpeta": "Jonathan Rodríguez",
+  "tipo": "temas",
+  "nombreCompleto": "Jonathan Rodríguez",
+  "lugarResidencia": "Mexico-Asociación Pacífico",
+  "cargo": "Pastor",
+  "anio": "2026",
+  "descripcion": "",
+  "portada": "portada.png",
+  "fechaActualizacion": "2026-11-26T22:47:31.586Z",
+  "temas": [
+    {
+      "numero": 1,
+      "titulo": "Oro negro   Jonathan Rodríguez",
+      "archivo": "Oro negro _ Jonathan Rodríguez.mp3",
+      "duracion": "44:29"
+    },
+    {
+      "numero": 2,
+      "titulo": "Un mundo que gime   Jonathan Rodríguez",
+      "archivo": "Un mundo que gime _ Jonathan Rodríguez.mp3",
+      "duracion": "43:33"
+    }
+  ]
+}
