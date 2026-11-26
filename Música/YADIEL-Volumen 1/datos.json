@@ -1,0 +1,199 @@
+{
+  "carpeta": "YADIEL-Volumen 1",
+  "grupo": "YADIEL",
+  "album": "Volumen 1",
+  "anio": "2025",
+  "genero": "Alabanza",
+  "iglesia": "Villa el Salvador",
+  "descripcion": "",
+  "portada": "portada.png",
+  "fechaActualizacion": "2026-11-26T16:33:39.408Z",
+  "canciones": [
+    {
+      "numero": 1,
+      "titulo": "EL TIEMPO DE LA CIEGA",
+      "archivo": "01 - EL TIEMPO DE LA CIEGA.mp3",
+      "duracion": "03:58"
+    },
+    {
+      "numero": 2,
+      "titulo": "ALABANZAS CANTARÉ",
+      "archivo": "02 - ALABANZAS CANTARÉ.mp3",
+      "duracion": "03:58"
+    },
+    {
+      "numero": 3,
+      "titulo": "EL AMOR DE MI JESÚS",
+      "archivo": "03 - EL AMOR DE MI JESÚS.mp3",
+      "duracion": "03:30"
+    },
+    {
+      "numero": 4,
+      "titulo": "EN EL GÓLGOTA",
+      "archivo": "04 - EN EL GÓLGOTA.mp3",
+      "duracion": "04:06"
+    },
+    {
+      "numero": 5,
+      "titulo": "EN EL CIELO QUIERO CANTAR",
+      "archivo": "05 - EN EL CIELO QUIERO CANTAR.mp3",
+      "duracion": "04:10"
+    },
+    {
+      "numero": 6,
+      "titulo": "PRONTO VIENE YA",
+      "archivo": "06 - PRONTO VIENE YA.mp3",
+      "duracion": "04:02"
+    },
+    {
+      "numero": 7,
+      "titulo": "LUGAR SANTÍSIMO",
+      "archivo": "07 - LUGAR SANTÍSIMO.mp3",
+      "duracion": "04:06"
+    },
+    {
+      "numero": 8,
+      "titulo": "EL ES JESÚS",
+      "archivo": "08 - EL ES JESÚS.mp3",
+      "duracion": "04:36"
+    },
+    {
+      "numero": 9,
+      "titulo": "UN SUCESO MUY GLORIOSO",
+      "archivo": "09 - UN SUCESO MUY GLORIOSO.mp3",
+      "duracion": "04:26"
+    },
+    {
+      "numero": 10,
+      "titulo": "CON CRISTO QUIERO VIVIR",
+      "archivo": "10 - CON CRISTO QUIERO VIVIR.mp3",
+      "duracion": "03:25"
+    },
+    {
+      "numero": 11,
+      "titulo": "TU PALABRA ES MI GUÍA",
+      "archivo": "11 - TU PALABRA ES MI GUÍA.mp3",
+      "duracion": "04:19"
+    },
+    {
+      "numero": 12,
+      "titulo": "PRONTO ACABARÁ",
+      "archivo": "12 - PRONTO ACABARÁ.mp3",
+      "duracion": "03:18"
+    },
+    {
+      "numero": 13,
+      "titulo": "ALABAR A NUESTRO REY",
+      "archivo": "13 - ALABAR A NUESTRO REY.mp3",
+      "duracion": "03:13"
+    },
+    {
+      "numero": 14,
+      "titulo": "GOZO EN MI CORAZÓN",
+      "archivo": "14 - GOZO EN MI CORAZÓN.mp3",
+      "duracion": "03:40"
+    },
+    {
+      "numero": 15,
+      "titulo": "EN TU PALACIO",
+      "archivo": "15 - EN TU PALACIO.mp3",
+      "duracion": "03:11"
+    },
+    {
+      "numero": 16,
+      "titulo": "GRACIAS MI SEÑOR",
+      "archivo": "16 - GRACIAS MI SEÑOR.mp3",
+      "duracion": "05:47"
+    },
+    {
+      "numero": 17,
+      "titulo": "EL QUE HABITA AL ABRIGO",
+      "archivo": "17 - EL QUE HABITA AL ABRIGO.mp3",
+      "duracion": "04:18"
+    },
+    {
+      "numero": 18,
+      "titulo": "EL PODER DE LA AMISTAD",
+      "archivo": "18 - EL PODER DE LA AMISTAD.mp3",
+      "duracion": "03:56"
+    },
+    {
+      "numero": 19,
+      "titulo": "QUE FELICIDAD",
+      "archivo": "19 - QUE FELICIDAD.mp3",
+      "duracion": "04:47"
+    },
+    {
+      "numero": 20,
+      "titulo": "CREADOS PARA SERVIR",
+      "archivo": "20 - CREADOS PARA SERVIR.mp3",
+      "duracion": "03:52"
+    },
+    {
+      "numero": 21,
+      "titulo": "UN MENSAJE TRAIGO AQUÍ",
+      "archivo": "21 - UN MENSAJE TRAIGO AQUÍ.mp3",
+      "duracion": "03:51"
+    },
+    {
+      "numero": 22,
+      "titulo": "UN PUEBLO DE DIOS",
+      "archivo": "22 - UN PUEBLO DE DIOS.mp3",
+      "duracion": "03:37"
+    },
+    {
+      "numero": 23,
+      "titulo": "EL DIOS QUE ELIGIO EL PESEBRE",
+      "archivo": "23 - EL DIOS QUE ELIGIO EL PESEBRE.mp3",
+      "duracion": "04:17"
+    },
+    {
+      "numero": 24,
+      "titulo": "MAS ALLÁ DE LAS ESTRELLAS",
+      "archivo": "24 - MAS ALLÁ DE LAS ESTRELLAS.mp3",
+      "duracion": "04:38"
+    },
+    {
+      "numero": 25,
+      "titulo": "UN PACTO DE AMOR",
+      "archivo": "25 - UN PACTO DE AMOR.mp3",
+      "duracion": "04:34"
+    },
+    {
+      "numero": 26,
+      "titulo": "OFRENDA DE AMOR",
+      "archivo": "26 - OFRENDA DE AMOR.mp3",
+      "duracion": "03:24"
+    },
+    {
+      "numero": 27,
+      "titulo": "HAY DOS CAMINOS",
+      "archivo": "27 - HAY DOS CAMINOS.mp3",
+      "duracion": "03:58"
+    },
+    {
+      "numero": 28,
+      "titulo": "FELIZ CUMPLEAÑOS",
+      "archivo": "28 - FELIZ CUMPLEAÑOS.mp3",
+      "duracion": "03:27"
+    },
+    {
+      "numero": 29,
+      "titulo": "CÁNTALE ALÁBALE",
+      "archivo": "29 - CÁNTALE ALÁBALE.mp3",
+      "duracion": "03:27"
+    },
+    {
+      "numero": 30,
+      "titulo": "YA VIENE",
+      "archivo": "30 - YA VIENE.mp3",
+      "duracion": "03:12"
+    },
+    {
+      "numero": 31,
+      "titulo": "CUÉNTALE A ÉL",
+      "archivo": "31 - CUÉNTALE A ÉL.mp3",
+      "duracion": "03:55"
+    }
+  ]
+}
